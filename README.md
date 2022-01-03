@@ -40,7 +40,7 @@ O usuário após logar no sistema selecionará a opção "Produto" no menu "Cada
   * Ações        - Editar / Excluir               -  A exclusão é lógica e não física
 
 ## API de Departamentos
-A lista de departamentos está disponível via API. A documentação da API está no [Apiary](https://maximatech.docs.apiary.io/#reference/0/fullstack/departamento)
+A lista de departamentos está disponível via API. A documentação da API está no (https://talentoshumanos-selecao.solucoesmaxima.com.br/swagger)
 
 ## Diferenciais
 
